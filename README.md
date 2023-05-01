@@ -1,11 +1,9 @@
-
-[Anouar Bakouch]
 # About Me
-I am a [Data/AI Engineering] student with a background in Computer Engineering. I am passionate about using technology to solve complex problems and create innovative solutions.
+I am an AI and Data Science student with a background in Computer Engineering. I am passionate about using technology to solve complex problems and create innovative solutions.
 
 # Education
-- [High National School Of Arts & Crafts], [Master/Engineering Degree], [2022-Today]
-- [University Of Sidi Mohamed Ben Abdellah], [Associate's Degree], [2020-2022]
+- (ENSAM) - High National School Of Arts & Crafts, [Master/Engineering Degree], [2022-Today]
+- University Of Sidi Mohamed Ben Abdellah, [Associate's Degree], [2020-2022]
 # Skills
 - Programming languages: Python, Java, C++, SQL
 - Data analysis and visualization tools: Pandas, Matplotlib, Seaborn
